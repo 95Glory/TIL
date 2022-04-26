@@ -265,7 +265,7 @@ public class Family {
 	private String members; //필드의 선언
 	private int ages; //필드의 선언
 	
-	// Book 객체의 생성을 도와주는 함수 즉 생성자라고 칭한다.
+	// 객체의 생성을 도와주는 함수 즉 생성자라고 칭한다.
 	// new 키워드를 사용하여 호출
 	public Family(String member, int age) {
 		super();
